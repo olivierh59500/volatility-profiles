@@ -21,7 +21,7 @@ Currently there are a few profiles for Ubuntu which were downloaded from [here][
 
 PS. If you push a profile you can also tweet about it with hashtag [#volatilityprofile][8] or [#volatility][9]
 
-![][11]
+![stats](http://nojsstats.appspot.com/UA-43977491-1/github.com)
 
 [1]: https://code.google.com/p/volatility/ "Volatility tool's home page @ Google Code"
 [2]: https://code.google.com/p/volatility/wiki/LinuxMemoryForensics "How to create profiles for Linux"
